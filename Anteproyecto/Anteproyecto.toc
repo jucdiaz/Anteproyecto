@@ -1,0 +1,18 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Informaci\'on general}{3}{section.1}
+\contentsline {section}{\numberline {2}Resumen ejecutivo}{3}{section.2}
+\contentsline {section}{\numberline {3}Descripci\'on del proyecto}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Planteamiento del problema}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Objetivos}{6}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Objetivo general}{6}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Objetivos espec\IeC {\'\i }ficos}{6}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Marco Te\'orico}{6}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Distribuciones para datos proporcionales.}{6}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Distribuci\'on para datos proporcionales inflada con ceros y unos}{8}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Modelo de regresi\'on mixto para datos proporcionales inflados en cero y/o uno}{9}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Funci\'on de verosimilitud}{10}{subsubsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.5}Cuadratura de Gauss-Hermite}{11}{subsubsection.3.3.5}
+\contentsline {section}{\numberline {4}Estado del arte}{14}{section.4}
+\contentsline {section}{\numberline {5}Metodolog\IeC {\'\i }a propuesta}{17}{section.5}
+\contentsline {section}{\numberline {6}Cronograma}{17}{section.6}
+\contentsline {section}{\numberline {7}Compromisos}{18}{section.7}
